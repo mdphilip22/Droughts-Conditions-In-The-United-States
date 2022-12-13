@@ -1,0 +1,72 @@
+.container-fluid {
+	font-family: "Times New Roman", sans-serif;
+	font-size: 20px;
+	background-color: #ccffff !important;
+	padding-bottom: 50px;
+}
+
+
+
+[class^="col"] {
+	padding-top: 25px;
+	margin-left: 10px;
+	
+}
+
+.top {
+	background-color: #ccffff !important;
+	text-align: center;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-family: "Georgia";
+
+}
+
+.line {
+	border-color: black;
+	border-width: 2px;
+	border-top-style: solid;
+}
+
+.top h5 {
+	color: darkslategrey;
+}
+.text {
+	margin-bottom: 41px;
+}
+.podcast {
+	
+	margin-bottom: 41px;
+}
+
+[class^="full"] {
+	margin-top:10px;
+	margin-bottom: 1px;
+}
+
+iframe {
+	width:100%;
+}
+
+.graphic {
+
+	border-color: darkblue;
+	border-width: 1px;
+	border-style: solid;
+	padding-left:10px;
+	padding-right: 10px;
+	background-color: white;
+}
+
+.byline {
+	font-size: 18px;
+	font-family: "Georgia";
+}
+
+.link:hover{
+	color:darkblue;
+}
+
+.link:visited {
+	color: black;
+}
